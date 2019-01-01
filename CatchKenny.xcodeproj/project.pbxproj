@@ -14,6 +14,7 @@
 		87AFFDF321C2F4DD0054D97A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 87AFFDF121C2F4DD0054D97A /* LaunchScreen.storyboard */; };
 		87AFFDFE21C2F4DD0054D97A /* CatchKennyTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87AFFDFD21C2F4DD0054D97A /* CatchKennyTests.swift */; };
 		87AFFE0921C2F4DD0054D97A /* CatchKennyUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87AFFE0821C2F4DD0054D97A /* CatchKennyUITests.swift */; };
+		87AFFE1721C2F5260054D97A /* kenny.png in Resources */ = {isa = PBXBuildFile; fileRef = 87AFFE1621C2F5260054D97A /* kenny.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		87AFFE0421C2F4DD0054D97A /* CatchKennyUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CatchKennyUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		87AFFE0821C2F4DD0054D97A /* CatchKennyUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatchKennyUITests.swift; sourceTree = "<group>"; };
 		87AFFE0A21C2F4DD0054D97A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		87AFFE1621C2F5260054D97A /* kenny.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = kenny.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		87AFFDE721C2F4DB0054D97A /* CatchKenny */ = {
 			isa = PBXGroup;
 			children = (
+				87AFFE1621C2F5260054D97A /* kenny.png */,
 				87AFFDE821C2F4DB0054D97A /* AppDelegate.swift */,
 				87AFFDEA21C2F4DB0054D97A /* ViewController.swift */,
 				87AFFDEC21C2F4DB0054D97A /* Main.storyboard */,
@@ -230,6 +233,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				87AFFDF321C2F4DD0054D97A /* LaunchScreen.storyboard in Resources */,
+				87AFFE1721C2F5260054D97A /* kenny.png in Resources */,
 				87AFFDF021C2F4DD0054D97A /* Assets.xcassets in Resources */,
 				87AFFDEE21C2F4DB0054D97A /* Main.storyboard in Resources */,
 			);
